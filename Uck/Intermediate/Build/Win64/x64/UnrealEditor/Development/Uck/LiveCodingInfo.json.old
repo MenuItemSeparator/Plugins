@@ -1,0 +1,36 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Uck.cpp.obj": [
+			"CharacterCameraTool_CA.gen.cpp.obj",
+			"CTRL_ACC.gen.cpp.obj",
+			"Entity_CTRL_ACC.gen.cpp.obj",
+			"GlobalFunctionality_FLib.gen.cpp.obj",
+			"InputBehavior_ACC.gen.cpp.obj",
+			"InputHandler_ACC.gen.cpp.obj",
+			"LevelTesterActor.gen.cpp.obj",
+			"MyObject.gen.cpp.obj",
+			"NGLog.gen.cpp.obj",
+			"RagdollController.gen.cpp.obj",
+			"Uck.init.gen.cpp.obj",
+			"UckLevelActor.gen.cpp.obj",
+			"UckVehicleController_ACC.gen.cpp.obj",
+			"UckWidgetBase.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"CTRL_ACC.cpp.obj",
+			"MyObject.cpp.obj",
+			"Uck.cpp.obj",
+			"CharacterCameraTool_CA.cpp.obj",
+			"RagdollController.cpp.obj",
+			"Entity_Ctrl_ACC.cpp.obj",
+			"GlobalFunctionality_FLib.cpp.obj",
+			"InputBehavior_ACC.cpp.obj",
+			"InputHandler_ACC.cpp.obj",
+			"LevelTesterActor.cpp.obj",
+			"UckLevelActor.cpp.obj",
+			"NGLog.cpp.obj",
+			"UckVehicleController_ACC.cpp.obj",
+			"UckWidgetBase.cpp.obj"
+		]
+	}
+}

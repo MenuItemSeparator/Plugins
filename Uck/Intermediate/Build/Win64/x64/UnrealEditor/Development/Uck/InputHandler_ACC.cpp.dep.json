@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\private\\uck\\inputhandler_acc.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\intermediate\\build\\win64\\x64\\rnd_multiplayereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uck\\definitions.uck.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\public\\uck\\inputhandler_acc.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmappingcontext.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedactionkeymapping.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedactionkeymapping.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmappingcontext.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmappingquery.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmappingquery.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\playermappableinputconfig.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\playermappableinputconfig.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\playermappablekeysettings.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\playermappablekeysettings.generated.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\unrealeditor\\inc\\uck\\uht\\inputhandler_acc.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\private\\uck\\leveling\\ucklevelactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\intermediate\\build\\win64\\x64\\rnd_multiplayereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uck\\definitions.uck.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\public\\uck\\leveling\\ucklevelactor.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\unrealeditor\\inc\\uck\\uht\\ucklevelactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

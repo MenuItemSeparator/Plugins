@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\private\\uck\\leveling\\leveltesteractor.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\intermediate\\build\\win64\\x64\\rnd_multiplayereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uck\\definitions.uck.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\public\\uck\\leveling\\leveltesteractor.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\public\\uck\\leveling\\ucklevelactor.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\unrealeditor\\inc\\uck\\uht\\ucklevelactor.generated.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\unrealeditor\\inc\\uck\\uht\\leveltesteractor.generated.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\public\\uck\\nglog\\nglog.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\unrealeditor\\inc\\uck\\uht\\nglog.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

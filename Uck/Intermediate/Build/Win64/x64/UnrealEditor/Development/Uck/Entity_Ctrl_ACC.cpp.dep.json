@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\private\\uck\\ctrl\\entity_ctrl_acc.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\intermediate\\build\\win64\\x64\\rnd_multiplayereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uck\\definitions.uck.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\public\\uck\\ctrl\\entity_ctrl_acc.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\unrealeditor\\inc\\uck\\uht\\entity_ctrl_acc.generated.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\public\\uck\\flibs-01\\globalfunctionality_flib.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\unrealeditor\\inc\\uck\\uht\\globalfunctionality_flib.generated.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\source\\uck\\public\\uck\\nglog\\nglog.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "a:\\_p\\rnd\\multiplayer\\rnd_multiplayer\\plugins\\uck\\intermediate\\build\\win64\\unrealeditor\\inc\\uck\\uht\\nglog.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\net\\core\\public\\net\\core\\propertyconditions\\propertyconditions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
